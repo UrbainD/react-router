@@ -22,6 +22,7 @@ export const Add = ({ movies, setMovies }) => {
             rating: rate,
             image: img
         }
+        //destructuration du tableau movies et ajout d'une nouvelle movie (Il laissera les autres films intacts)
         setMovies([...movies, newMovie]);
         handleClose()
 

@@ -7,6 +7,7 @@ export const moviesData = [
         date: '1999',
         description:
             'Naruto (ナルト) est un shōnen manga écrit et dessiné par Masashi Kishimoto.',
+        trailer:'https://www.youtube.com/watch?v=-G9BqkgZXRA',
     },
     {
         id: Math.random(),
@@ -16,6 +17,7 @@ export const moviesData = [
         date: '2018',
         description:
             'Les Avengers et leurs alliés doivent être prêts à tout sacrifier pour tenter de vaincre le puissant Thanos.',
+        trailer:'https://www.youtube.com/watch?v=eIWs2IUr3Vs',
     },
     {
         id: Math.random(),
@@ -25,6 +27,7 @@ export const moviesData = [
         date: '2019',
         description:
             'Anna, Elsa, Kristoff, Olaf et Sven quittent Arendelle pour se rendre dans une ancienne forêt automnale un pays enchanté.',
+        trailer:'https://www.youtube.com/watch?v=Zi4LMpSDccc',
     },
     {
         id: Math.random(),
@@ -35,6 +38,7 @@ export const moviesData = [
         date: '2016',
         description:
             "Les aventures de l'écrivain Newt Scamander dans la communauté secrète des sorciers de New York",
+        trailer:'https://www.youtube.com/watch?v=DaM_wL1ZOM4',
     },
     {
         id: Math.random(),
@@ -45,6 +49,7 @@ export const moviesData = [
         date: '2014',
         description:
             "Une équipe d'explorateurs voyage à travers un trou de ver dans l'espace pour tenter d'assurer la survie de l'humanité.",
+        trailer:'https://www.youtube.com/watch?v=zSWdZVtXT7E',
     },
     {
         id: Math.random(),
@@ -55,5 +60,6 @@ export const moviesData = [
         date: '2014',
         description:
             'Une fée vengeresse maudit une petite princesse, mais cet enfant est peut-être la seule personne capable de rétablir la paix dans leur pays troublé.',
+        trailer:'https://www.youtube.com/watch?v=n0OFH4xpPr4',
     },
 ];
